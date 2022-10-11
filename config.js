@@ -58,19 +58,19 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://youtube.com/channel/UCTVeRHM0v0Hqv_-O8yVkFpw' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '62895604670507' //dana
-global.povo = '62895604670507' //ovo
-global.pgopay = '62895604670507' //gopay
-global.plinkaja = '62895604670507' //link aja
-global.ppulsa = '62895604670507' //telkomsel
-global.ppulsa2 = '62895604670507' // kalau ada kartu lain isi aja
+global.pdana = '6285158121779' //dana
+global.povo = '6285158121779' //ovo
+global.pgopay = '6285158121779' //gopay
+global.plinkaja = '6285158121779' //link aja
+global.ppulsa = '6285158121779' //telkomsel
+global.ppulsa2 = '6285228679898' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '62895604670507'
-global.namebot = 'AlbedoBotz'
-global.nameown = 'Zenss'
+global.nomorbot = '6285228679898'
+global.nomorown = '6285158121779'
+global.namebot = '𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳'
+global.nameown = 'yusuf'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'RaaaGH' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['62895604670507', 'Zenss', true], 
+  ['6285158121779', 'yusuf', true], 
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -137,14 +137,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Albedo-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Albedo-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Albedo-BOT '
+global.wm = '                「 𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Zenss`
-global.packname = 'Albedo-Botz WhatsApp'
-global.author = '                「 Albedo-BOT  あ」'
+global.packname = '𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳 WhatsApp'
+global.author = '                「 𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -635,7 +635,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Albedo-BOT'
+global.stickpack = '𝐂𝐥𝐨𝐯𝐞𝐫𝐛𝐨𝐭𝐳'
 global.stickauth = `By ©WH-MODS-DEV`
 
 global.multiplier = 38 // The higher, The harder levelup
